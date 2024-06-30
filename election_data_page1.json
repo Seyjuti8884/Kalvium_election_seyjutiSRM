@@ -1,0 +1,33 @@
+[
+    {
+        "title": "PARLIAMENTARY CONSTITUENCIES",
+        "count": "543",
+        "link": "https://results.eci.gov.in/PcResultGenJune2024/index.htm"
+    },
+    {
+        "state": "ANDHRA PRADESH",
+        "count": "175",
+        "type": "Assembly Constituencies",
+        "link": "https://results.eci.gov.in/AcResultGenJune2024/index.htm"
+    },
+    {
+        "state": "ODISHA",
+        "count": "147",
+        "type": "Assembly Constituencies",
+        "link": "https://results.eci.gov.in/AcResultGenJune2024/index.htm"
+    },
+    {
+        "state": "BYE ELECTIONS",
+        "count": "25",
+        "type": "Assembly Constituencies",
+        "link": "https://results.eci.gov.in/AcResultByeJune2024/"
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "link": "https://results.eci.gov.in/AcResultGen2ndJune2024/index.htm"
+    },
+    {
+        "state": "Sikkim",
+        "link": "https://results.eci.gov.in/AcResultGen2ndJune2024/index.htm"
+    }
+]
